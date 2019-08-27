@@ -7,12 +7,12 @@
 .scoreSummary{
   width: 100%;
   text-align: center;
-  margin-bottom: 20px;	
+  margin-bottom: 5px;	
 }
 
 .card {
-  height: 250px;
-  width: 250px;
+  height: 270px;
+  width: 270px;
 }
 
 .card-img {
