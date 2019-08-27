@@ -19,7 +19,11 @@ This application keeps track of the users best score, and updates it when the us
 Technologies Used:
 
 HTML
+
 CSS
+
 JavaScript
+
 Node.js
+
 React
